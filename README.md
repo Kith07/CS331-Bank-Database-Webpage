@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Kith07
-- 👀 I’m interested in improving my python skills
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects involving python
-- 📫 How to reach me lm457@njit.edu
+- 👋 Hi, I’m Likhith Meesala
+- 👀 I’m interested in working on cutting-edge ML/AI research and its many real-world applications
+- 💞️ I’m looking to collaborate on work involving RAG Systems, MLOps, and other ML Systems
+- 📫 How to reach me likhithm072@gmail.com
 
 <!---
 Kith07/Kith07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
